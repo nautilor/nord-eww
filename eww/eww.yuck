@@ -59,8 +59,8 @@
     (box :orientation "v" :space-evenly "false" :class "profile-box"
       (image :path "images/profile.png" :image-width 120 :image-height 120 :class "profile-picture")
       (box :orientation "v" :space-evenly "false" :class "profile-info"
-        (label :text "YOUR_NAME" :class "profile-name" :limit-width 20)
-        (label :text "@USERNAME" :class "profile-username" :limit-width 20)
+        (label :text "Edoardo Zerbo" :class "profile-name" :limit-width 20)
+        (label :text "@nautilor" :class "profile-username" :limit-width 20)
      )
     )
   )
@@ -122,5 +122,5 @@
 			     				(time))
 
 (defwindow date 
-			    :geometry (geometry :x "1725px" :y "485px" :width "190px" :height "70px")
+			    :geometry (geometry :x "1725px" :y "485px" :width "190px" :height "86px")
 			     				(date))
