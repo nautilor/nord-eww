@@ -18,3 +18,4 @@ The script `spotiart` used to show the mopidy spotify album art requires:
 # Preview
 ![preview](screenshot/preview.png)
 ![preview](screenshot/preview_music.png)
+![preview](screenshot/full_desktop.png)
